@@ -1,62 +1,85 @@
 # Hola, soy Alejandro 👋  
 💻 QA Tester | Automatización | Java | Selenium  
-📍 México
+📍 México  
 
-Apasionado por la calidad de software y el como es que funcionan los mismos. Soy de la idea de que la calidad de un producto es directamente proporcional a la calidad de su proceso, por lo que siempre que me es posible me involucró en las primeras etapas del SDLC.
+Apasionado por la calidad de software y por entender cómo funcionan los sistemas.  
+Creo firmemente que la calidad de un producto es directamente proporcional a la calidad de su proceso, por lo que busco involucrarme desde las primeras etapas del SDLC para prevenir defectos y no solo detectarlos.
+
+---
 
 ## 👨‍💻 Sobre mí
-Soy QA Tester enfocado en pruebas manuales de aplicaciónes web y empiezo a incucionar en pruebas automatizadas.
-Tengo experiencia diseñando casos de prueba, pruebas exploratorias y automatización con Java y Selenium.
+Soy QA Tester enfocado en pruebas manuales de aplicaciones web, con conocimientos en automatización de pruebas.  
+Tengo experiencia en diseño de casos de prueba, ejecución de pruebas exploratorias y automatización con Java y Selenium.
 
 Actualmente estoy:
-- Preparándome para ISTQB Foundation Level
-- Desarrollando proyectos de automatización con TestNG.
+- 📚 Preparándome para la certificación ISTQB Foundation Level  
+- 🤖 Desarrollando proyectos de automatización con TestNG  
+- 🔄 Fortaleciendo buenas prácticas de testing y calidad  
 
+---
 
-## 🛠️ Tecnologías
-- Java
-- Selenium WebDriver
-- TestNG
-- Postman
-- Git / GitHub
-- SQL
+## 🛠️ Tecnologías y herramientas
+- Java  
+- Selenium WebDriver  
+- TestNG  
+- Postman  
+- Git / GitHub  
+- SQL  
+
+---
 
 ## 🔍 Tipos de pruebas
-- Pruebas funcionales
-- Pruebas exploratorias
-- Pruebas de integración 
-- Pruebas de sistema
-- Pruebas de API
+- Pruebas funcionales  
+- Pruebas exploratorias  
+- Pruebas de integración  
+- Pruebas de sistema  
+- Pruebas de API  
+
+---
 
 ## 📌 Proyectos Destacados
 
-🔹 Sistema de prevención de fraudes bancarios (Empresa KS Soluciones)
-- Análisis de requisitos y criterios de aceptación 
-- Diseño de casos de prueba
-- Documentación de bugs
-- Ejecución de Pruebas (funcionales, exploratorias, integración, sistema, API)
+### 🔹 Sistema de prevención de fraudes bancarios  
+*(Empresa KS Soluciones)*  
+- Análisis de requisitos y criterios de aceptación  
+- Diseño y ejecución de casos de prueba  
+- Documentación y seguimiento de bugs  
+- Ejecución de pruebas funcionales, exploratorias, de integración, sistema y API  
 
-🔹 Sistema de autorización transaccional (Empresa KS Soluciones)
-- Análisis de requisitos
-- Diseño de casos de prueba
-- Comunicación de bugs
-- Ejercicio de pruebas exploratorias y de aceptación de usuario 
+---
 
-🔹 Sistema de registro web (Testing)
-- Elaboración de historias de usuario
-- Elaboración de criterios de aceptación 
-- Análisis de historias de usuario y criterios de aceptación 
-- Diseño de casos de prueba
-- Documentación de bugs
+### 🔹 Sistema de autorización transaccional  
+*(Empresa KS Soluciones)*  
+- Análisis de requisitos  
+- Diseño de casos de prueba  
+- Reporte y comunicación de defectos  
+- Ejecución de pruebas exploratorias y pruebas de aceptación de usuario (UAT)  
 
-🔹 Automatización con Selenium + TestNG
-- Ejecución de pruebas automatizadas de ecommerce
+---
 
-<!-- - Manejo de conexión cliente-servidor TCP-->
+### 🔹 Sistema de registro web (proyecto personal)  
+- Elaboración de historias de usuario  
+- Definición de criterios de aceptación  
+- Análisis de requerimientos  
+- Diseño de casos de prueba  
+- Documentación de bugs  
 
+---
+
+### 🔹 Automatización con Selenium + TestNG (Aplicación web de pruebas)
+- Desarrollo y ejecución de pruebas automatizadas para e-commerce  
+- Implementación de buenas prácticas en automatización  
+- Manejo de datos de prueba y estructura de tests  
+
+---
+
+## 🚀 Objetivo profesional
+Seguir desarrollándome como QA Engineer, fortaleciendo mis habilidades en automatización, pruebas de API y calidad de software, con el objetivo de aportar valor desde etapas tempranas del desarrollo.
+
+---
 
 ## 📫 Contacto
-- LinkedIn: (pon tu perfil)
+- LinkedIn: (agrega tu perfil aquí)
 - Email: (opcional)
 
 <!--
