@@ -79,8 +79,8 @@ Seguir desarrollándome como QA Engineer, fortaleciendo mis habilidades en autom
 ---
 
 ## 📫 Contacto
-- LinkedIn: (agrega tu perfil aquí)
-- Email: (opcional)
+- LinkedIn: https://www.linkedin.com/in/alejandro-cervantes-solano-574359221/
+- Email: alex.csolano07@gmail.com
 
 <!--
 **AlexCer07/AlexCer07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
